@@ -22,8 +22,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=bishopy&show_icons=true&hide_border=true" />
+  <a href="https://github.com/bishopy/handle-path-oz">
+    <img width="55%" align="right" alt="bishopy's github stats" src="https://github-readme-stats.vercel.app/api?username=bishopy&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -47,5 +47,5 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/bishopy/" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/bishopy/bishopy.svg" />
 </p>
