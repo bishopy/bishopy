@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuff:**
 
-[error 404 not found]
+...error 404 not found...
 
 **Languages and Tools:** 
 
